@@ -10,24 +10,12 @@ namespace Main{
 
             LinkedList linkedList = new LinkedList();
             FillList(ref values, ref linkedList);
-            WalkList(linkedList);
+            linkedList.WalkList(linkedList);
         }
 
         static void FillList(ref int[] list, ref LinkedList passedList){
             for (int iter = 0; iter < list.Length; iter++) { 
                 passedList.Insert(list[iter]);
-            }
-        }
-
-        static void WalkList(LinkedList passedList){
-            Node node = passedList.head;
-            RecursiveWalk(node);
-        }
-
-        static void RecursiveWalk(Node passedNode){
-            WriteLine(passedNode.value);
-            if (passedNode.next != null) { 
-                RecursiveWalk(passedNode.next);
             }
         }
     }
@@ -68,6 +56,18 @@ namespace Main{
             }
             else{
                 node.next = new Node(value, node);
+            }
+        }
+
+        public void WalkList(LinkedList passedList){
+            Node node = passedList.head;
+            RecursiveWalk(node);
+        }
+
+        void RecursiveWalk(Node passedNode){
+            WriteLine(passedNode.value);
+            if (passedNode.next != null) { 
+                RecursiveWalk(passedNode.next);
             }
         }
     }
