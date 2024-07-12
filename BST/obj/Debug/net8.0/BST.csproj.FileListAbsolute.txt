@@ -1,0 +1,15 @@
+D:\Repos\Ray'sRepo\CS_Practice\BST\obj\Debug\net8.0\BST.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Ray'sRepo\CS_Practice\BST\obj\Debug\net8.0\BST.AssemblyInfoInputs.cache
+D:\Repos\Ray'sRepo\CS_Practice\BST\obj\Debug\net8.0\BST.AssemblyInfo.cs
+D:\Repos\Ray'sRepo\CS_Practice\BST\obj\Debug\net8.0\BST.csproj.CoreCompileInputs.cache
+D:\Repos\Ray'sRepo\CS_Practice\BST\obj\Debug\net8.0\BST.sourcelink.json
+D:\Repos\Ray'sRepo\CS_Practice\BST\bin\Debug\net8.0\BST.exe
+D:\Repos\Ray'sRepo\CS_Practice\BST\bin\Debug\net8.0\BST.deps.json
+D:\Repos\Ray'sRepo\CS_Practice\BST\bin\Debug\net8.0\BST.runtimeconfig.json
+D:\Repos\Ray'sRepo\CS_Practice\BST\bin\Debug\net8.0\BST.dll
+D:\Repos\Ray'sRepo\CS_Practice\BST\bin\Debug\net8.0\BST.pdb
+D:\Repos\Ray'sRepo\CS_Practice\BST\obj\Debug\net8.0\BST.dll
+D:\Repos\Ray'sRepo\CS_Practice\BST\obj\Debug\net8.0\refint\BST.dll
+D:\Repos\Ray'sRepo\CS_Practice\BST\obj\Debug\net8.0\BST.pdb
+D:\Repos\Ray'sRepo\CS_Practice\BST\obj\Debug\net8.0\BST.genruntimeconfig.cache
+D:\Repos\Ray'sRepo\CS_Practice\BST\obj\Debug\net8.0\ref\BST.dll
