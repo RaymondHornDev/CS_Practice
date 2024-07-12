@@ -14,7 +14,7 @@ namespace Main{
 
         static void FillList(ref int[] list, ref LinkedList list){
             for (int iter = 0; iter < list.length; iter++) { 
-                linkedList.add(list[iter]);
+                linkedList.Insert(list[iter]);
             }
         }
     }
