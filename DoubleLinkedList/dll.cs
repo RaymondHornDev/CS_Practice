@@ -6,7 +6,16 @@ namespace Main{
     {
         public static void Main(string[] args)
         {
+            int[] values = new int[5, 3, 1, 9, 4];
 
+            LinkedList linkedList = new LinkedList();
+            FillList(ref values, ref linkedList);
+        }
+
+        static void FillList(ref int[] list, ref LinkedList list){
+            for (int iter = 0; iter < list.length; iter++) { 
+                linkedList.add(list[iter]);
+            }
         }
     }
 
@@ -26,7 +35,7 @@ namespace Main{
     }
 
     class LinkedList{
-        public Node head;
+        Node head;
 
         public void Insert(int value){
             if(head){
