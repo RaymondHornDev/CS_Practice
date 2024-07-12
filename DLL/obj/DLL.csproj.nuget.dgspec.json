@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#Projects\\DLL\\DLL.csproj": {}
+    "D:\\Repos\\Ray'sRepo\\CS_Practice\\DLL\\DLL.csproj": {}
   },
   "projects": {
-    "D:\\C#Projects\\DLL\\DLL.csproj": {
+    "D:\\Repos\\Ray'sRepo\\CS_Practice\\DLL\\DLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#Projects\\DLL\\DLL.csproj",
+        "projectUniqueName": "D:\\Repos\\Ray'sRepo\\CS_Practice\\DLL\\DLL.csproj",
         "projectName": "DLL",
-        "projectPath": "D:\\C#Projects\\DLL\\DLL.csproj",
+        "projectPath": "D:\\Repos\\Ray'sRepo\\CS_Practice\\DLL\\DLL.csproj",
         "packagesPath": "C:\\Users\\rayho\\.nuget\\packages\\",
-        "outputPath": "D:\\C#Projects\\DLL\\obj\\",
+        "outputPath": "D:\\Repos\\Ray'sRepo\\CS_Practice\\DLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rayho\\AppData\\Roaming\\NuGet\\NuGet.Config",
