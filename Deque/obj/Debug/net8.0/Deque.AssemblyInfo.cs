@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Deque")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74fd553ba16ca6f2eee81e4cc4bf3d2254493754")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7548579715c80157c16fc16e3daae9b3d85618fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("Deque")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Deque")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

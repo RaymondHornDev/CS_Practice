@@ -72,6 +72,8 @@ namespace Main
          {
             Node return_node = tail;
             tail = return_node.prev;
+            return_node.prev = null;
+            tail.next = null;
             if(tail == null){
                 HasNodes = false;
             }
