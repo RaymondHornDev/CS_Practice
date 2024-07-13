@@ -1,0 +1,15 @@
+D:\Repos\Ray'sRepo\CS_Practice\Deque\obj\Debug\net8.0\Deque.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Ray'sRepo\CS_Practice\Deque\obj\Debug\net8.0\Deque.AssemblyInfoInputs.cache
+D:\Repos\Ray'sRepo\CS_Practice\Deque\obj\Debug\net8.0\Deque.AssemblyInfo.cs
+D:\Repos\Ray'sRepo\CS_Practice\Deque\obj\Debug\net8.0\Deque.csproj.CoreCompileInputs.cache
+D:\Repos\Ray'sRepo\CS_Practice\Deque\obj\Debug\net8.0\Deque.sourcelink.json
+D:\Repos\Ray'sRepo\CS_Practice\Deque\bin\Debug\net8.0\Deque.exe
+D:\Repos\Ray'sRepo\CS_Practice\Deque\bin\Debug\net8.0\Deque.deps.json
+D:\Repos\Ray'sRepo\CS_Practice\Deque\bin\Debug\net8.0\Deque.runtimeconfig.json
+D:\Repos\Ray'sRepo\CS_Practice\Deque\bin\Debug\net8.0\Deque.dll
+D:\Repos\Ray'sRepo\CS_Practice\Deque\bin\Debug\net8.0\Deque.pdb
+D:\Repos\Ray'sRepo\CS_Practice\Deque\obj\Debug\net8.0\Deque.dll
+D:\Repos\Ray'sRepo\CS_Practice\Deque\obj\Debug\net8.0\refint\Deque.dll
+D:\Repos\Ray'sRepo\CS_Practice\Deque\obj\Debug\net8.0\Deque.pdb
+D:\Repos\Ray'sRepo\CS_Practice\Deque\obj\Debug\net8.0\Deque.genruntimeconfig.cache
+D:\Repos\Ray'sRepo\CS_Practice\Deque\obj\Debug\net8.0\ref\Deque.dll
