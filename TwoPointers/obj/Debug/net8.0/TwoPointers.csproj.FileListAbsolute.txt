@@ -1,0 +1,15 @@
+D:\Repos\Ray'sRepo\CS_Practice\TwoPointers\obj\Debug\net8.0\TwoPointers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Ray'sRepo\CS_Practice\TwoPointers\obj\Debug\net8.0\TwoPointers.AssemblyInfoInputs.cache
+D:\Repos\Ray'sRepo\CS_Practice\TwoPointers\obj\Debug\net8.0\TwoPointers.AssemblyInfo.cs
+D:\Repos\Ray'sRepo\CS_Practice\TwoPointers\obj\Debug\net8.0\TwoPointers.csproj.CoreCompileInputs.cache
+D:\Repos\Ray'sRepo\CS_Practice\TwoPointers\obj\Debug\net8.0\TwoPointers.sourcelink.json
+D:\Repos\Ray'sRepo\CS_Practice\TwoPointers\bin\Debug\net8.0\TwoPointers.exe
+D:\Repos\Ray'sRepo\CS_Practice\TwoPointers\bin\Debug\net8.0\TwoPointers.deps.json
+D:\Repos\Ray'sRepo\CS_Practice\TwoPointers\bin\Debug\net8.0\TwoPointers.runtimeconfig.json
+D:\Repos\Ray'sRepo\CS_Practice\TwoPointers\bin\Debug\net8.0\TwoPointers.dll
+D:\Repos\Ray'sRepo\CS_Practice\TwoPointers\bin\Debug\net8.0\TwoPointers.pdb
+D:\Repos\Ray'sRepo\CS_Practice\TwoPointers\obj\Debug\net8.0\TwoPointers.dll
+D:\Repos\Ray'sRepo\CS_Practice\TwoPointers\obj\Debug\net8.0\refint\TwoPointers.dll
+D:\Repos\Ray'sRepo\CS_Practice\TwoPointers\obj\Debug\net8.0\TwoPointers.pdb
+D:\Repos\Ray'sRepo\CS_Practice\TwoPointers\obj\Debug\net8.0\TwoPointers.genruntimeconfig.cache
+D:\Repos\Ray'sRepo\CS_Practice\TwoPointers\obj\Debug\net8.0\ref\TwoPointers.dll
