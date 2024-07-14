@@ -23,7 +23,8 @@ namespace Main
         }
 
         static void RecursiveEmpty(Deque deque){
-            if(deque.HasNodes == true){
+            if(deque.HasNodes == true)
+            {
                 WriteLine(deque.Pop().value);
                 RecursiveEmpty(deque);
             }
