@@ -4,7 +4,7 @@ namespace Main{
     class Program {
         static void Main(string[] args) {
             int[] arr = { 1, 2, 3, 4, 5 };
-            int _target = 3;
+            int _target = 53;
             int p_1 = 0;
             int p_2 = arr.Length - 1;
 
@@ -24,6 +24,9 @@ namespace Main{
                 else { 
                     RecursiveFunction(nums, target, p1 + 1, p2);
                 }
+            }
+            else{
+                Console.WriteLine("Not Found");
             }
         }
     } 
