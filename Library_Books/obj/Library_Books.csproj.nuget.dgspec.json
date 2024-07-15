@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#Projects\\InterviewPractice\\Library_Books\\Library_Books.csproj": {}
+    "D:\\Repos\\Ray'sRepo\\CS_Practice\\Library_Books\\Library_Books.csproj": {}
   },
   "projects": {
-    "D:\\C#Projects\\InterviewPractice\\Library_Books\\Library_Books.csproj": {
+    "D:\\Repos\\Ray'sRepo\\CS_Practice\\Library_Books\\Library_Books.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#Projects\\InterviewPractice\\Library_Books\\Library_Books.csproj",
+        "projectUniqueName": "D:\\Repos\\Ray'sRepo\\CS_Practice\\Library_Books\\Library_Books.csproj",
         "projectName": "Library_Books",
-        "projectPath": "D:\\C#Projects\\InterviewPractice\\Library_Books\\Library_Books.csproj",
+        "projectPath": "D:\\Repos\\Ray'sRepo\\CS_Practice\\Library_Books\\Library_Books.csproj",
         "packagesPath": "C:\\Users\\rayho\\.nuget\\packages\\",
-        "outputPath": "D:\\C#Projects\\InterviewPractice\\Library_Books\\obj\\",
+        "outputPath": "D:\\Repos\\Ray'sRepo\\CS_Practice\\Library_Books\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rayho\\AppData\\Roaming\\NuGet\\NuGet.Config",

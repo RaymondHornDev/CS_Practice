@@ -3,12 +3,15 @@ using static System.Console;
 
 namespace Main{
     class Library{
+
+        Dictionary<string, Book>? b_ooks;
         public List<Book>? books;
         public int bookCount;
 
         public Book? highlightedBook;
 
         public Library(){
+            b_ooks = new Dictionary<string, Book>();
             books = new List<Book>();
             bookCount = 0;
             highlightedBook = null;
@@ -24,6 +27,7 @@ namespace Main{
         public void AddBook(Book passedBook){
             if(passedBook != null){
                 books.Add(passedBook);
+                b_ooks.Add(passedBook.Title, passedBook);
             }
         }
 
@@ -32,6 +36,7 @@ namespace Main{
             if (books.Count > 0) { 
                 retBook = books[0];
                 this.books.RemoveAt(0);
+                b_ooks.Remove(retBook.Title);
             }
             return retBook;
         }
