@@ -1,0 +1,14 @@
+D:\C#Projects\InterviewPractice\Library_Books\obj\Debug\net8.0\Library_Books.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Projects\InterviewPractice\Library_Books\obj\Debug\net8.0\Library_Books.AssemblyInfoInputs.cache
+D:\C#Projects\InterviewPractice\Library_Books\obj\Debug\net8.0\Library_Books.AssemblyInfo.cs
+D:\C#Projects\InterviewPractice\Library_Books\obj\Debug\net8.0\Library_Books.csproj.CoreCompileInputs.cache
+D:\C#Projects\InterviewPractice\Library_Books\bin\Debug\net8.0\Library_Books.exe
+D:\C#Projects\InterviewPractice\Library_Books\bin\Debug\net8.0\Library_Books.deps.json
+D:\C#Projects\InterviewPractice\Library_Books\bin\Debug\net8.0\Library_Books.runtimeconfig.json
+D:\C#Projects\InterviewPractice\Library_Books\bin\Debug\net8.0\Library_Books.dll
+D:\C#Projects\InterviewPractice\Library_Books\bin\Debug\net8.0\Library_Books.pdb
+D:\C#Projects\InterviewPractice\Library_Books\obj\Debug\net8.0\Library_Books.dll
+D:\C#Projects\InterviewPractice\Library_Books\obj\Debug\net8.0\refint\Library_Books.dll
+D:\C#Projects\InterviewPractice\Library_Books\obj\Debug\net8.0\Library_Books.pdb
+D:\C#Projects\InterviewPractice\Library_Books\obj\Debug\net8.0\Library_Books.genruntimeconfig.cache
+D:\C#Projects\InterviewPractice\Library_Books\obj\Debug\net8.0\ref\Library_Books.dll
