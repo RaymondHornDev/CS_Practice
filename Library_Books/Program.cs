@@ -20,7 +20,7 @@ namespace Main{
         static void Empty(Library passedLib){
             Book retBook;
             if(passedLib.books.Count() > 0){
-                retBook = passedLib.RemoveBook();
+                retBook = passedLib.RemoveBook(0);
                 passedLib.ViewBook(retBook);
                 Empty(passedLib);
             }
