@@ -2,16 +2,11 @@
 
 namespace Main{
     class Program {
-        static void Main(string[] args) {
-            string[,] myArr = {
-                {"Winston", "Stateman", "748" },
-                {"Adolf", "Tyrant", "396" },
-                {"Woodrow", "Idealist", "567" },
-                {"Kennedy", "Womanizer", "486" },
-            };
+
+        static void Main(){
             Library lib = new Library();
 
-            Fill(myArr, lib, 0);
+            Fill(GlobalStorage.myArr, lib, 0);
             Empty(lib);
         }
 

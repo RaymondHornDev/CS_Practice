@@ -36,7 +36,9 @@ namespace Main{
             if (books.Count > 0) { 
                 retBook = books[0];
                 this.books.RemoveAt(0);
-                b_ooks.Remove(retBook.Title);
+                if(b_ooks.ContainsKey(retBook.Title)){
+                    b_ooks.Remove(retBook.Title);
+                }
             }
             return retBook;
         }
