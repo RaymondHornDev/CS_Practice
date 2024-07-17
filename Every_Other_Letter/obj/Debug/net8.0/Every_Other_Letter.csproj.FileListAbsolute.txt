@@ -1,0 +1,15 @@
+D:\Repos\Ray'sRepo\CS_Practice\Every_Other_Letter\obj\Debug\net8.0\Every_Other_Letter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Ray'sRepo\CS_Practice\Every_Other_Letter\obj\Debug\net8.0\Every_Other_Letter.AssemblyInfoInputs.cache
+D:\Repos\Ray'sRepo\CS_Practice\Every_Other_Letter\obj\Debug\net8.0\Every_Other_Letter.AssemblyInfo.cs
+D:\Repos\Ray'sRepo\CS_Practice\Every_Other_Letter\obj\Debug\net8.0\Every_Other_Letter.csproj.CoreCompileInputs.cache
+D:\Repos\Ray'sRepo\CS_Practice\Every_Other_Letter\obj\Debug\net8.0\Every_Other_Letter.sourcelink.json
+D:\Repos\Ray'sRepo\CS_Practice\Every_Other_Letter\bin\Debug\net8.0\Every_Other_Letter.exe
+D:\Repos\Ray'sRepo\CS_Practice\Every_Other_Letter\bin\Debug\net8.0\Every_Other_Letter.deps.json
+D:\Repos\Ray'sRepo\CS_Practice\Every_Other_Letter\bin\Debug\net8.0\Every_Other_Letter.runtimeconfig.json
+D:\Repos\Ray'sRepo\CS_Practice\Every_Other_Letter\bin\Debug\net8.0\Every_Other_Letter.dll
+D:\Repos\Ray'sRepo\CS_Practice\Every_Other_Letter\bin\Debug\net8.0\Every_Other_Letter.pdb
+D:\Repos\Ray'sRepo\CS_Practice\Every_Other_Letter\obj\Debug\net8.0\Every_Other_Letter.dll
+D:\Repos\Ray'sRepo\CS_Practice\Every_Other_Letter\obj\Debug\net8.0\refint\Every_Other_Letter.dll
+D:\Repos\Ray'sRepo\CS_Practice\Every_Other_Letter\obj\Debug\net8.0\Every_Other_Letter.pdb
+D:\Repos\Ray'sRepo\CS_Practice\Every_Other_Letter\obj\Debug\net8.0\Every_Other_Letter.genruntimeconfig.cache
+D:\Repos\Ray'sRepo\CS_Practice\Every_Other_Letter\obj\Debug\net8.0\ref\Every_Other_Letter.dll
