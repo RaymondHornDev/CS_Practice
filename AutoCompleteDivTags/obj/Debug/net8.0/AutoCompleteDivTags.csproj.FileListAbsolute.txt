@@ -1,0 +1,15 @@
+D:\Repos\Ray'sRepo\CS_Practice\AutoCompleteDivTags\obj\Debug\net8.0\AutoCompleteDivTags.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Ray'sRepo\CS_Practice\AutoCompleteDivTags\obj\Debug\net8.0\AutoCompleteDivTags.AssemblyInfoInputs.cache
+D:\Repos\Ray'sRepo\CS_Practice\AutoCompleteDivTags\obj\Debug\net8.0\AutoCompleteDivTags.AssemblyInfo.cs
+D:\Repos\Ray'sRepo\CS_Practice\AutoCompleteDivTags\obj\Debug\net8.0\AutoCompleteDivTags.csproj.CoreCompileInputs.cache
+D:\Repos\Ray'sRepo\CS_Practice\AutoCompleteDivTags\obj\Debug\net8.0\AutoCompleteDivTags.sourcelink.json
+D:\Repos\Ray'sRepo\CS_Practice\AutoCompleteDivTags\bin\Debug\net8.0\AutoCompleteDivTags.exe
+D:\Repos\Ray'sRepo\CS_Practice\AutoCompleteDivTags\bin\Debug\net8.0\AutoCompleteDivTags.deps.json
+D:\Repos\Ray'sRepo\CS_Practice\AutoCompleteDivTags\bin\Debug\net8.0\AutoCompleteDivTags.runtimeconfig.json
+D:\Repos\Ray'sRepo\CS_Practice\AutoCompleteDivTags\bin\Debug\net8.0\AutoCompleteDivTags.dll
+D:\Repos\Ray'sRepo\CS_Practice\AutoCompleteDivTags\bin\Debug\net8.0\AutoCompleteDivTags.pdb
+D:\Repos\Ray'sRepo\CS_Practice\AutoCompleteDivTags\obj\Debug\net8.0\AutoCompleteDivTags.dll
+D:\Repos\Ray'sRepo\CS_Practice\AutoCompleteDivTags\obj\Debug\net8.0\refint\AutoCompleteDivTags.dll
+D:\Repos\Ray'sRepo\CS_Practice\AutoCompleteDivTags\obj\Debug\net8.0\AutoCompleteDivTags.pdb
+D:\Repos\Ray'sRepo\CS_Practice\AutoCompleteDivTags\obj\Debug\net8.0\AutoCompleteDivTags.genruntimeconfig.cache
+D:\Repos\Ray'sRepo\CS_Practice\AutoCompleteDivTags\obj\Debug\net8.0\ref\AutoCompleteDivTags.dll
