@@ -9,7 +9,7 @@ class Program{
     static string CapEOL(string _string, int val){
         string ret_string = "";
         if(val < _string.Length){
-            if((val + 1) % 2 == 0){
+            if((val + 1) % 2 != 0){
                 ret_string += _string.Substring(val, 1).ToUpper();
             }
             else{
