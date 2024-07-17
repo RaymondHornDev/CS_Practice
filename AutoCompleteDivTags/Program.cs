@@ -12,17 +12,10 @@ class Program{
         string retString = "";
         if(val < html.Length){
             if(html.Substring(val, 1) == "<" && html.Substring(val + 4, 1) != ">"){
-                if(html.Substring(val + 1, 1).ToLower() == "d" && html.Substring(val + 3, 1).ToLower() == "v"){
-                    retString += "<div> ";
-                    val += 4;
-                }
+                UpdateValues(html, ref val, ref retString);
             }
             else if (html.Substring(val, 1) != "<" && html.Substring(val + 4, 1) == ">"){
-                if (html.Substring(val + 1, 1).ToLower() == "d" && html.Substring(val + 3, 1).ToLower() == "v")
-                {
-                    retString += " <div>";
-                    val += 4;
-                }
+                UpdateValues(html, ref val, ref retString);
             }
             else{
                 retString += html.Substring(val, 1);
@@ -30,5 +23,12 @@ class Program{
             return retString + AutoComplete(html, val + 1);
         }
         return retString;
+    }
+
+    static void UpdateValues(string pHtml, ref int pVal, ref string pRetString){
+        if (pHtml.Substring(pVal + 1, 1).ToLower() == "d" && pHtml.Substring(pVal + 3, 1).ToLower() == "v"){
+            pRetString += " <div> ";
+            pVal += 4;
+        }
     }
 }
